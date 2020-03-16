@@ -17,7 +17,7 @@ Best First Search is an instance of graph search algorithm in which a mode is se
 
 Best first search can be implemented within general search frame work via a priority queue, a data structure that will maintain the fringe in ascending order of f values. This search algorithm serves as combination of depth first and breadth first search algorithm. Best first search algorithm is often referred greedy algorithm this is because they quickly attack the most desirable path as soon as its heuristic weight becomes the most desirable.
 
-For our project we have given priorities to the direction of traversal top, left, bottom, right as 1, 2, 3 and 4 respectively.
+For our project, we have given priorities to the direction of traversal top, left, bottom, right as 1, 2, 3 and 4 respectively.
 
 ## Concept
 
