@@ -28,7 +28,7 @@ For our project, we have given priorities to the direction of traversal top, lef
 
     Step 3: Traverse any neighbour of neighbour of the root node, that is maintaining a least distance from the root node and insert them in ascending order into the queue
 
-    Step 4: This process will continue until we are getting the goal node
+    Step 4: This process will continue until we get the goal node
 
 
 ## Algorithm
