@@ -10,7 +10,7 @@
 
 AI : Use of Greedy Best First Search Traversal to find route from Source to Destination
 
-![Snap](https://github.com/VedantKhairnar/The-Maze-Runner/blob/master/Maze.PNG)
+![Snap](https://github.com/VedantKhairnar/The-Maze-Runner/blob/master/img/TheMazeRunner.gif)
 
 ## Greedy Best First Search Algorithm
 Best First Search is an instance of graph search algorithm in which a mode is selected for expansion based on evaluation function f(n). Traditionally, the node which is the lowest evaluation is selected for expansion because the evaluation meassures distance to the goal. 
