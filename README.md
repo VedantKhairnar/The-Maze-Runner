@@ -32,16 +32,16 @@ For our project we have given pirorities priorities to the direction of traversa
 
 ## Algorithm
 
-    Step 1: Place the starting node or root node into the queue.
+    1: Place the starting node or root node into the queue.
 
-    Step 2: If the queue is empty, then stop and return failure.
+    2: If the queue is empty, then stop and return failure.
 
-    Step 3: If the first element of the queue is our goal node, then stop and return success.
+    3: If the first element of the queue is our goal node, then stop and return success.
 
-    Step 4: Else, remove the first element from the queue. Expand it and compute the estimated goal distance for each child. Place the children in the queue in ascending order to the goal distance.
+    4: Else, remove the first element from the queue. Expand it and compute the estimated goal distance for each child. Place the children in the queue in ascending order to the goal distance.
 
-    Step 5: Go to step-3
+    5: Go to step-3
 
-    Step 6: Exit.
+    6: Exit.
 
 
