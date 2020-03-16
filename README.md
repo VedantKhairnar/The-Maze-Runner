@@ -44,8 +44,13 @@ For our project we have given priorities to the direction of traversal top, left
 
     6: Exit.
 
-Collabarator: 
-Vedant Khairnar
-Ashutosh Katpatal
+
+# Developers:
+
+[Vedant Khairnar](http://vedantkhairnar.ml/)
+
+[Ashutosh Katpatal](https://www.linkedin.com/in/ashutosh-katpatal-2856b618a/) 
+
+
 
 
