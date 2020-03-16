@@ -1,10 +1,12 @@
 # The-Maze-Runner
 
+<div align="center">
 <img src="https://img.shields.io/github/license/VedantKhairnar/The-Maze-Runner">	
 <img src="https://img.shields.io/github/stars/VedantKhairnar/The-Maze-Runner">
 <img src="https://img.shields.io/github/forks/VedantKhairnar/The-Maze-Runner">
 <img src="https://img.shields.io/github/issues/VedantKhairnar/The-Maze-Runner">
 <img src="https://img.shields.io/badge/PRs-welcome-informational">
+</div>
 
 AI Assg : Use of Greedy Best First Search Traversal to find route from Source to Destination
 
