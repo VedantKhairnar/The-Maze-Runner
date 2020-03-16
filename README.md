@@ -1,7 +1,7 @@
-
+#                                                    The-Maze-Runner  
 
 <div align="center">
-# The-Maze-Runner    
+  
     
 <img src="https://img.shields.io/github/license/VedantKhairnar/The-Maze-Runner">	
 <img src="https://img.shields.io/github/stars/VedantKhairnar/The-Maze-Runner">
