@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/PRs-welcome-informational">
 </div>
 
-AI : Use of Greedy Best First Search Traversal to find route from Source to Destination
+### AI : Use of Greedy Best First Search Traversal to find route from Source to Destination
 
 ![Snap](https://github.com/VedantKhairnar/The-Maze-Runner/blob/master/img/TheMazeRunner.gif)
 
